@@ -80,8 +80,9 @@ This project helped in understanding:
 - Using Vite
 
 ## 📸 Screenshot
+<img width="1177" height="652" alt="image" src="https://github.com/user-attachments/assets/b4bba7d0-a6a9-4d2c-8951-9eb4eb7ee741" />
 
-![alt text](image.png)
+
 
 ## 👩‍💻 Author
 
